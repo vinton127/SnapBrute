@@ -4,7 +4,7 @@ from lib.captcha import reCAPTCHA
 
 class SnapBrute:
     def ui(self):
-        os.system("cls && title SnapBrute ^| github.com/Plasmonix") 
+        os.system("clear && title SnapBrute ^| github.com/Plasmonix") 
         print(f"""{Fore.BLUE}
     \t\t\t  _________                   __________                __           
     \t\t\t /   _____/ ____ _____  ______\______   \_______ __ ___/  |_  ____   
